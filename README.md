@@ -2,7 +2,8 @@
  esse repositorio e para estudo
 
 ------------------------ 
-#Introdução
+# Introdução
+
 o começo desse curso foi com diversos pontos dentre eles:
 aula 01 apresentação do formato do curso ( onde o professor fala um pouco como funciona o curso e tudo mais e como vamos abordar cada tópico)
 aula 02 onde seria comprado os materias ( eu já foquei logo na ali express pois é a mais comum e confiavel)
@@ -11,7 +12,8 @@ aula 03 Conhecendo o Simulador Tinkercard( onde faz uma apresentação do tinker
 ![image](https://github.com/user-attachments/assets/c0501151-9eef-4eed-b9ea-e5d226b1f17c)
 
 ------------------------------
-#Componentes Básicos
+# Componentes Básicos
+
 esse modulos ensina uma introdução de eletronica básica e ensina também a usar o tinkercard e como funciona os componentes ajudando a nos 
 familiarizarmos com a ferramenta
 
@@ -24,7 +26,9 @@ add uma imagem aqui
 --------------------
 
 
-aula 05 protoboard ( nos ensina com funciona a protoboard e seus benefcios dentre eles
+# protoboard 
+
+Essa aula nos ensina com funciona a protoboard e seus benefcios dentre eles:
 Benefícios da Protoboard
 
 Sem Solda: Permite montar circuitos sem precisar soldar.
@@ -39,8 +43,9 @@ Redução de Erros: Ajuda a testar e corrigir projetos antes do PCB.
 
 --------------------
 
-aula 6 Jumpers barras e pinos 
-essa aula foi uma breve explicação sobre oque são jumpers barras e pinos 
+# Jumpers barras e pinos
+
+Essa aula foi uma breve explicação sobre oque são jumpers barras e pinos 
 
 Benefícios dos Jumpers
 
@@ -60,7 +65,9 @@ Disponível em diferentes tamanhos e materiais, garantindo durabilidade.
 
 
 -------------------
-aula 07 interruptores ( essa aula explica oque são os interruptores e sua diferenças com os buttoes 
+# Interruptores 
+
+Essa aula explica oque são os interruptores e sua diferenças com os buttoes 
 interuptor liga e desliga
 butao manter pressionado
 
