@@ -132,6 +132,10 @@ Funciona em diversas aplicações, como carregadores, fontes de energia e LEDs.
 ![image](https://github.com/user-attachments/assets/356344d0-5cbb-433e-b09b-01fa732a232c)
 
 
+# Transistor
+
+
+
 
 
 
