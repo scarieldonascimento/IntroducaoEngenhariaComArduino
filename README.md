@@ -114,10 +114,22 @@ como o volume de um som, a intensidade de uma luz ou a velocidade de um motor.
   ![image](https://github.com/user-attachments/assets/1c632f00-fc3b-4231-9719-45c4b3711a6e)
 
 
+-------------
+
+
+# Diodo
+Um diodo é um componente eletrônico que permite a passagem de corrente elétrica em apenas uma direção, bloqueando no sentido contrário.
+
+Benefícios:
+
+Evita danos em circuitos ao impedir correntes reversas.
+Usado para retificar corrente alternada (transformá-la em corrente contínua).
+Protege componentes contra sobrecargas e polarização reversa.
+Funciona em diversas aplicações, como carregadores, fontes de energia e LEDs.
 
 
 
-
+![image](https://github.com/user-attachments/assets/356344d0-5cbb-433e-b09b-01fa732a232c)
 
 
 
