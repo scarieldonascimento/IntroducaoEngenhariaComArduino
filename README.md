@@ -3,11 +3,14 @@
 
 ------------------------ 
 # Introdução
+Aula 01: Apresentação do Curso
+O professor explicou o formato do curso, detalhando como ele funciona, os tópicos que serão abordados e a forma de aprendizado que será aplicada.
 
-o começo desse curso foi com diversos pontos dentre eles:
-aula 01 apresentação do formato do curso ( onde o professor fala um pouco como funciona o curso e tudo mais e como vamos abordar cada tópico)
-aula 02 onde seria comprado os materias ( eu já foquei logo na ali express pois é a mais comum e confiavel)
-aula 03 Conhecendo o Simulador Tinkercard( onde faz uma apresentação do tinkercard e pede para criar uma conta)
+Aula 02: Compra de Materiais
+Foi discutido onde adquirir os materiais necessários para as atividades práticas. Optei por focar na AliExpress, por ser uma opção comum e confiável para esse tipo de compra.
+
+Aula 03: Conhecendo o Simulador Tinkercad
+Nesta aula, foi apresentada a ferramenta Tinkercad, um simulador online para projetos eletrônicos. Também foi solicitado que os alunos criassem uma conta para começar a utilizá-lo.
 
 ![image](https://github.com/user-attachments/assets/c0501151-9eef-4eed-b9ea-e5d226b1f17c)
 
@@ -101,6 +104,15 @@ como o volume de um som, a intensidade de uma luz ou a velocidade de um motor.
 - calculo de tensão
   
 ![image](https://github.com/user-attachments/assets/076c3393-41b9-4e0f-8b9c-e0f1505b3ef1)
+
+
+- potenciometro
+
+
+  ![image](https://github.com/user-attachments/assets/1c632f00-fc3b-4231-9719-45c4b3711a6e)
+
+
+
 
 
 
