@@ -81,9 +81,9 @@ Interruptor Comum:
 Usado em casa ou na indústria, como para ligar ou desligar luzes.
 Tem um único botão maior e é fácil de operar.
 Controla a energia elétrica de forma simples.
-DIP Switch:
 
-Usado em eletrônicos, como placas-mãe ou Arduino.
+
+DIP Switch: Usado em eletrônicos, como placas-mãe ou Arduino.
 É pequeno, com vários botõezinhos que podem ser ligados ou desligados.
 Serve para configurar dispositivos ou ajustar funções específicas.
 Resumo:
