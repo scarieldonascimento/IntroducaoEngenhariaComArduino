@@ -17,11 +17,15 @@ Nesta aula, foi apresentada a ferramenta Tinkercad, um simulador online para pro
 ------------------------------
 # Componentes Básicos
 
-esse modulos ensina uma introdução de eletronica básica e ensina também a usar o tinkercard e como funciona os componentes ajudando a nos 
-familiarizarmos com a ferramenta
+Este módulo oferece uma introdução à eletrônica básica, abordando tanto o uso do Tinkercad quanto o funcionamento dos principais componentes. Ele ajuda os alunos a se familiarizarem com a ferramenta e com conceitos essenciais.
 
-aula 04 LED, resistor, botão ( nós ensina as funcionalidades do LED qual voltagem necessaria configuramos no resistor para que o LED nao queime, 
-botão no ensina como a voltagem passa pelo o botao e como passar  
+# LED, Resistor e Botão
+
+Nesta aula, aprendemos:
+As funcionalidades do LED e a voltagem necessária para seu funcionamento correto.
+Como configurar um resistor para evitar que o LED queime devido ao excesso de corrente.
+O funcionamento do botão, explicando como ele permite ou interrompe a passagem de voltagem no circuito.
+O módulo combina teoria e prática, tornando mais fácil entender os fundamentos da eletrônica e aplicá-los no simulador.
 
 
 add uma imagem aqui
