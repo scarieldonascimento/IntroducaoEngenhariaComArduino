@@ -91,6 +91,20 @@ O interruptor comum é maior e controla energia, enquanto o DIP switch é pequen
 
 --------------------------------------
 
+# Potenciometro
+
+Um potenciômetro é um tipo de resistor ajustável que controla o fluxo de corrente elétrica em um circuito. 
+Ele possui um botão ou alavanca que você pode girar para aumentar ou diminuir a resistência, ajustando coisas 
+como o volume de um som, a intensidade de uma luz ou a velocidade de um motor. 
+É muito usado em controles manuais e dispositivos eletrônicos.
+
+- calculo de tensão
+  
+![image](https://github.com/user-attachments/assets/076c3393-41b9-4e0f-8b9c-e0f1505b3ef1)
+
+
+
+
 
 
 
