@@ -29,7 +29,7 @@ add uma imagem aqui
 --------------------
 
 
-# protoboard 
+# Protoboard 
 
 Essa aula nos ensina com funciona a protoboard e seus benefcios dentre eles:
 Benefícios da Protoboard
@@ -76,9 +76,7 @@ butao manter pressionado
 
 Diferença entre Interruptor Comum e DIP Switch
 
-Interruptor Comum:
-
-Usado em casa ou na indústria, como para ligar ou desligar luzes.
+Interruptor Comum: Usado em casa ou na indústria, como para ligar ou desligar luzes.
 Tem um único botão maior e é fácil de operar.
 Controla a energia elétrica de forma simples.
 
