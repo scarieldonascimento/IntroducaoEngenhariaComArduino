@@ -134,12 +134,47 @@ Funciona em diversas aplicações, como carregadores, fontes de energia e LEDs.
 
 # Transistor
 
+O transistor de junção bipolar (TJB ou BJT - Bipolar Junction Transistor) é um componente eletrônico muito usado em circuitos de amplificação e chaveamento. Ele é chamado de "bipolar" porque o funcionamento depende do movimento de dois tipos de portadores de carga: elétrons (carga negativa) e lacunas (carga positiva).
+
+Estrutura Básica
+O TJB é formado por três camadas de material semicondutor dopado, dispostas em uma sequência que pode ser NPN ou PNP:
+
+Emissor (E): É fortemente dopado e emite os portadores de carga (elétrons ou lacunas) para a base.
+Base (B): É muito fina e levemente dopada. Ela controla a quantidade de corrente que flui do emissor para o coletor.
+Coletor (C): Moderadamente dopado e maior em tamanho, coleta os portadores de carga vindos do emissor.
+Funcionamento
+O TJB tem dois estados principais:
+
+Amplificação de sinal: Pequenas variações de corrente na base resultam em grandes variações na corrente entre o emissor e o coletor. Isso permite amplificar sinais elétricos.
+Chaveamento: O transistor pode ser usado como uma chave, ficando "ligado" (saturação) ou "desligado" (corte) dependendo do sinal na base.
+Configurações do TJB
+Os transistores podem ser usados em três configurações principais, dependendo da aplicação:
+
+Base comum: Oferece alta tensão de saída.
+Coletor comum (seguidor de emissor): Oferece alta corrente e é usado para adaptar impedâncias.
+Emissor comum: Mais utilizado para amplificação de sinais.
+Diferença entre NPN e PNP
+No NPN, o fluxo de corrente é de elétrons e geralmente é ativado com um sinal positivo na base.
+No PNP, o fluxo de corrente é de lacunas e é ativado com um sinal negativo na base.
+
+
+![image](https://github.com/user-attachments/assets/182299be-753c-42c4-9264-720ae888764b)
+
+------------------------------------------------------
 
 
 
+# Introdução a Programação com Arduino
+--------------------------
 
+# variaveis , tipos de dados , Constantes 
 
-
+- uma variavel é um rotulo que faz referencia a um local de memoria do hardware.
+- Ajudam a ler e escrever valores na memória através de um nome dados pelo programador.
+- o nome nao pode ter espaços nem caracteres especiais nem inicar com um numero.
+- cada variavel deve ter um tipo especifico.
+- cada tipo define como o dado poderá ser tratado pelo programa.
+  
 
 
 
